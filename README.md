@@ -38,6 +38,7 @@ Aside from the actual rota functionality, which is outlined below, there are two
 ## To-do list
 
  - [ ] Design something... probably prototyping using spreadsheets (_mmmm, spreadsheets_).
+ - [ ] Decide on the technology to use for this.
  - [ ] Write some actual code...
  - [ ] El Rota **must** display a list of dates.
  - [ ] El Rota **should** support a minimum staff requirement, with warnings when fewer staff members than the minimum are allocated on a given date.
